@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://thumbs.gfycat.com/ClosedIllegalDinosaur-size_restricted.gif">
 
-- 🌱 I’m currently learning **Algorithms and data structures, relational data bases with postgres and machine learning.**
+- 🌱 I’m currently learning **Algorithms and data structures, relational data bases with PostgreSQL and machine learning.**
 
 - 💬 Ask me about **statistical inference and regression analysis.**
 
