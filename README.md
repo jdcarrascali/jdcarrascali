@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan David</h1>
 <h3 align="left" >I'm a mathematician interested in computer science and machine learning. Most of my work here is done at spanish but i hope everyone could understand the main ideas.</h3>
 
-- 🌱 I’m currently learning **Algorithms and data structures, relational data bases with postgres and machine learning**
+- 🌱 I’m currently learning **Algorithms and data structures, relational data bases with postgres and machine learning.**
 
-- 💬 Ask me about **statistical inference and regression analysis**
+- 💬 Ask me about **statistical inference and regression analysis.**
 
-- 📫 How to reach me **jdcarrascali@unal.edu.co**
+- 📫 How to reach me **jdcarrascali@unal.edu.co.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
