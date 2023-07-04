@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David</h1>
-<h3 align="left" >I'm a mathematician interested in computer science and machine learning. Most of my work here is done at spanish but i hope everyone could understand the main ideas of my projects, those are part of the work of some university courses taken at the deparment of statistics and the deparment of mathematis at National University of Colombia.</h3>
+<h3 align="left" >I'm a mathematician interested in computer science and machine learning. Most of my work here is done at spanish but i hope everyone could understand the main ideas of my projects, those are part of the work of some university courses taken at the deparments of mathematics and statistics at National University of Colombia.</h3>
 
 - 🌱 I’m currently learning **Algorithms and data structures, relational data bases with postgres and machine learning.**
 
