@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan David</h1>
 <h3 align="center">Mathematician interested in computer science and machine learning.</h3>
 
-- 🌱 I’m currently learning **Algorithms and data structures**
+- 🌱 I’m currently learning **Algorithms and data structures, relational data bases with postgres and machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jdcarrascali?tab=repositories](https://github.com/jdcarrascali?tab=repositories)
 
