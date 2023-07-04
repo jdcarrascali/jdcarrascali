@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan David</h1>
+
 <h3 align="left" >I'm a mathematician interested in computer science and machine learning. Most of my work here is done at spanish but i hope everyone could understand the main ideas of my projects, those are part of the work of some university courses taken at the deparments of mathematics and statistics at National University of Colombia.</h3>
 
 <img align="right" alt="Coding" width="250" src="https://thumbs.gfycat.com/ClosedIllegalDinosaur-size_restricted.gif">
